@@ -1,0 +1,136 @@
+
+[
+    {
+        "response_type": "greeting",
+        "user_input": ["hello", "hi", "hey"],
+        "bot_response": "Hello",
+        "required_words": []
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["see you", "goodbye", "bye"],
+        "bot_response": "See you later!",
+        "required_words": []
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["nice", "to", "meet", "you"],
+        "bot_response": "The pleasure is all mine!",
+        "required_words": ["nice", "meet", "you"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+        "bot_response": "Start by typing: 'How to learn coding' on Google.",
+        "required_words": ["learn", "code"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["refund", "how", "can", "I", "get"],
+        "bot_response": "We don't offer refunds for free education.",
+        "required_words": ["refund", "i"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["how", "are", "you"],
+        "bot_response": "I'm great! Thanks for asking.",
+        "required_words": ["how", "are", "you"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["what's up", "how's it going", "howdy"],
+        "bot_response": "Not much, just here to help!",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": ["tell me a joke", "make me laugh", "joke"],
+        "bot_response": "Why don't scientists trust atoms? Because they make up everything!",
+        "required_words": ["joke"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["good morning", "morning", "rise and shine"],
+        "bot_response": "Good morning! It's a new day full of possibilities.",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": ["recommend a book", "book suggestion", "what should I read"],
+        "bot_response": "I recommend 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams. It's a great read!",
+        "required_words": ["recommend", "book"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["how's the weather", "weather forecast", "what's the temperature"],
+        "bot_response": "I'm sorry, I can't provide real-time weather information. You can check a weather website or app for that.",
+        "required_words": ["weather"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["tell me a fun fact", "interesting fact", "did you know"],
+        "bot_response": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!",
+        "required_words": ["fact"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["howdy", "how's it going", "hey there"],
+        "bot_response": "Howdy! What can I do for you today?",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": ["movie recommendation", "what movie to watch", "favorite movie"],
+        "bot_response": "One of my favorite movies is 'The Shawshank Redemption.' It's a classic!",
+        "required_words": ["movie", "recommendation"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["tell me a riddle", "riddle me this", "challenge"],
+        "bot_response": "I'm as small as an ant, as big as a whale. I'll approach like a breeze, but can come like a gale. By some, I get hit, but all have shown fear. I'll dance to the music, though I can't hear. Of names, I have many, of names, I have one. I'm as slow as a snail, but from me, you can't run. What am I?",
+        "required_words": ["riddle"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["how's your day", "what's up", "hello there"],
+        "bot_response": "Hello! My day is going well. How can I assist you today?",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": ["recipe", "cook", "what to cook for dinner"],
+        "bot_response": "How about trying a classic spaghetti bolognese? It's delicious and easy to make!",
+        "required_words": ["recipe", "cook"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["tell me a science fact", "interesting science", "science trivia"],
+        "bot_response": "Here's a fascinating science fact: A day on Venus (one rotation on its axis) is longer than a year on Venus (one orbit around the Sun). Venus has an extremely slow rotation!",
+        "required_words": ["science", "fact"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["good evening", "evening", "hello"],
+        "bot_response": "Good evening! How can I be of assistance tonight?",
+        "required_words": []
+    },
+    {
+        "response_type": "question",
+        "user_input": ["travel destination", "where to go on vacation", "dream vacation"],
+        "bot_response": "A dream vacation destination for many is the beautiful island of Bali in Indonesia. It offers stunning beaches, lush jungles, and a rich cultural experience.",
+        "required_words": ["travel", "destination"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["how to meditate", "meditation techniques", "mindfulness"],
+        "bot_response": "Meditation can be a great way to relax and reduce stress. You can start by finding a quiet, comfortable space, sitting or lying down, and focusing on your breath. There are also many meditation apps and videos available to guide you.",
+        "required_words": ["meditate", "mindfulness"]
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["how's it hanging", "what's popping", "hi"],
+        "bot_response": "Not much, just here to chat. What's on your mind?",
+        "required_words": []
+    }
+]
+    
